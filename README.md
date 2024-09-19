@@ -1,0 +1,1 @@
+In this project I investigated some GPS performance data for a mens soccer program. I was able to find some of the KPI data through available scientific literature, then present some individual and team averages. I was then able to look for some of that same information in SQL and create a basic visualization in Tableau Public. 
